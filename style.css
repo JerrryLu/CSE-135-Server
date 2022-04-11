@@ -1,0 +1,18 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+pre {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.content {
+    background-color: lightgray;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+a.title {
+    text-decoration: none;
+    color: black;
+}
